@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+sex,Sexo dos indivíduos,qualitativa,nominal
+smoker,Pessoa fumante ou nao,qualitativa,nominal
+day,Dia da semana,quantitativa,ordinal
+time,Tempo,quantitativa,continua
+size,Qtd de pessoas juntas,quantitativa,discreta
+total_bill,Total da conta,quantitativa,continua
+tip,Gorjeta,quantitativa,discreta
